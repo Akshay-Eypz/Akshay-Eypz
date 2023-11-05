@@ -16,23 +16,23 @@
 
 
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchiyaCT&layout=compact"></a>
+<a href="https://github.com/noob-hackers"><img title="SatanicEypz" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AchiyaCT&layout=compact"></a>
 </p>
 
 
-<p align="center"> <a href="Akshay"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=Akshayser123&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Alpha Achiya" /></a> </p><br> 
+<p align="center"> <a href="sataniceypz"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=sataniceypz&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Alpha Achiya" /></a> </p><br> 
 
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshayser123&show_icons=true&theme=nightowl" alt="Alpha Achiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sataniceypz&show_icons=true&theme=nightowl" alt="Alpha Achiya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshayser123&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Akshay"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sataniceypz&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Akshay"/></p></a><br> 
 
 ##
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Akshayser123)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=sataniceypz)
 
 </details>
