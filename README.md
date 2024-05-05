@@ -5,7 +5,7 @@
 <img src= "https://i.imgur.com/A3SsiZv.jpeg"/>
 </p>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2331F7EA&center=true&lines=WELCOME+TO+MY+GITHUB;HI%2CI+am+Ahci+Fernando;Github+Tool+Maker;Simple+Application+Developer;Subscribe;Join+Our+Groups;THANK+YOU+FOR+VISIT+MY+GITHUB)](https://git.io/typing-svg) <br> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2331F7EA&center=true&lines=WELCOME+TO+MY+GITHUB;HI%2CI+am+Eypz+God;Github+Tool+Maker;Simple+Application+Developer;Subscribe;Join+Our+Groups;THANK+YOU+FOR+VISIT+MY+GITHUB)](https://git.io/typing-svg) <br> 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
  
