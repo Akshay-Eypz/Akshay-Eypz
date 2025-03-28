@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey, I'm Eypz</b><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/sataniceypz"><img src="https://readme-typing-svg.demolab.com/?lines=<Hobby+Developer/>&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100"></a>
+  <a href="https://github.com/Akshay-Eypz"><img src="https://readme-typing-svg.demolab.com/?lines=<Hobby+Developer/>&font=Time+New+Roman&color=90EE90&size=25&center=true&vCenter=true&width=600&height=100"></a>
 </p>
 
 <h1 align="center"><b>About Me </b><img src="https://i.pinimg.com/originals/c1/e9/51/c1e95172d8c115d66148cb9ad68c1c74.gif" width="35"></h1>
@@ -13,7 +13,7 @@
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
 <p align="center">
-  <a href="https://github.com/sataniceypz"> <img  alt="Eypz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sataniceypz?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/Akshay-Eypz"> <img  alt="Eypz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Akshay-Eypz?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sataniceypz&label=Profile%20Views&color=ffa500&style=flat" alt="EYPZ" /> </p>
 
